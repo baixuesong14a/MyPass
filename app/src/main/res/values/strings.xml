@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyPass</string>
+    <string name="login">登录</string>
+    <string name="registered">注册</string>
+    <string name="name">请输入用户名</string>
+    <string name="regis_name">用户名</string>
+    <string name="regis_pass">密码</string>
+    <string name="regis_repass">确认密码</string>
+    <string name="regis_reg">注册</string>
+    <string name="pop_name">  软件：</string>
+    <string name="pop_pass">  密码：</string>
+    <string name="pop_user">  用户：</string>
+    <string name="regis_softname">软件名</string>
+
+
+</resources>
